@@ -1,0 +1,27 @@
+D:\EsDnevnikP\EsDnevnik\EsDnevnik\EsDnevnik\EsDnevnik\bin\Debug\EsDnevnik.exe.config
+D:\EsDnevnikP\EsDnevnik\bin\Debug\EsDnevnik.exe.config
+E:\EsDnevnikP\EsDnevnik\bin\Debug\EsDnevnik.exe.config
+E:\EsDnevnikP\EsDnevnik\bin\Debug\EsDnevnik.exe
+E:\EsDnevnikP\EsDnevnik\bin\Debug\EsDnevnik.pdb
+E:\EsDnevnikP\EsDnevnik\obj\Debug\EsDnevnik.csproj.AssemblyReference.cache
+E:\EsDnevnikP\EsDnevnik\obj\Debug\EsDnevnik.Form1.resources
+E:\EsDnevnikP\EsDnevnik\obj\Debug\EsDnevnik.Odeljenje.resources
+E:\EsDnevnikP\EsDnevnik\obj\Debug\EsDnevnik.Properties.Resources.resources
+E:\EsDnevnikP\EsDnevnik\obj\Debug\EsDnevnik.csproj.GenerateResource.cache
+E:\EsDnevnikP\EsDnevnik\obj\Debug\EsDnevnik.csproj.CoreCompileInputs.cache
+E:\EsDnevnikP\EsDnevnik\obj\Debug\EsDnevnik.exe
+E:\EsDnevnikP\EsDnevnik\obj\Debug\EsDnevnik.pdb
+E:\EsDnevnikP\EsDnevnik\obj\Debug\EsDnevnik.Osoba.resources
+C:\Users\dusan\OneDrive\Desktop\EsDnevnikP (2)\EsDnevnikP\EsDnevnik\bin\Debug\EsDnevnik.exe.config
+C:\Users\dusan\OneDrive\Desktop\EsDnevnikP (2)\EsDnevnikP\EsDnevnik\bin\Debug\EsDnevnik.exe
+C:\Users\dusan\OneDrive\Desktop\EsDnevnikP (2)\EsDnevnikP\EsDnevnik\bin\Debug\EsDnevnik.pdb
+C:\Users\dusan\OneDrive\Desktop\EsDnevnikP (2)\EsDnevnikP\EsDnevnik\obj\Debug\EsDnevnik.csproj.AssemblyReference.cache
+C:\Users\dusan\OneDrive\Desktop\EsDnevnikP (2)\EsDnevnikP\EsDnevnik\obj\Debug\EsDnevnik.csproj.SuggestedBindingRedirects.cache
+C:\Users\dusan\OneDrive\Desktop\EsDnevnikP (2)\EsDnevnikP\EsDnevnik\obj\Debug\EsDnevnik.Form1.resources
+C:\Users\dusan\OneDrive\Desktop\EsDnevnikP (2)\EsDnevnikP\EsDnevnik\obj\Debug\EsDnevnik.Odeljenje.resources
+C:\Users\dusan\OneDrive\Desktop\EsDnevnikP (2)\EsDnevnikP\EsDnevnik\obj\Debug\EsDnevnik.Osoba.resources
+C:\Users\dusan\OneDrive\Desktop\EsDnevnikP (2)\EsDnevnikP\EsDnevnik\obj\Debug\EsDnevnik.Properties.Resources.resources
+C:\Users\dusan\OneDrive\Desktop\EsDnevnikP (2)\EsDnevnikP\EsDnevnik\obj\Debug\EsDnevnik.csproj.GenerateResource.cache
+C:\Users\dusan\OneDrive\Desktop\EsDnevnikP (2)\EsDnevnikP\EsDnevnik\obj\Debug\EsDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\dusan\OneDrive\Desktop\EsDnevnikP (2)\EsDnevnikP\EsDnevnik\obj\Debug\EsDnevnik.exe
+C:\Users\dusan\OneDrive\Desktop\EsDnevnikP (2)\EsDnevnikP\EsDnevnik\obj\Debug\EsDnevnik.pdb
